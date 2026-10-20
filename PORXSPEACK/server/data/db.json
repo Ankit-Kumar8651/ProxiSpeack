@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "usr-e09f972f-2a2b-46a4-84b5-195e54e552cc",
+      "userId": "admin",
+      "email": "admin@proxispeak.com",
+      "passwordHash": "$2a$10$fR4oaP4fIJkY07vbRLOPq..49.QFW7kQXABvU3PdjO6dvhstxPoAe",
+      "name": "Workspace Admin",
+      "role": "admin",
+      "department": "Engineering",
+      "jobTitle": "Administrator",
+      "avatarId": "alex-dev",
+      "availability": "Available",
+      "assignedOffice": "Engineering Bay Alpha",
+      "dateJoined": "2026-10-20"
+    },
+    {
+      "id": "usr-fd5a88c1-ca38-4e7e-b2d6-045331ea1b65",
+      "userId": "saini",
+      "email": "ankitkr8651005671@gmail.com",
+      "passwordHash": "$2a$10$0n26XJiBBf.Qh/nLk27b2eeRFqZNtt2lUw9pd.IgbrYGeESZsPbPG",
+      "name": "Ankit",
+      "role": "employee",
+      "department": "Engineering",
+      "jobTitle": "Team Member",
+      "avatarId": "sam-marketing",
+      "availability": "Available",
+      "assignedOffice": "Open Workspace HQ",
+      "dateJoined": "2026-10-20"
+    }
+  ],
+  "roster": []
+}
